@@ -31,7 +31,14 @@ A modern and responsive portfolio website built to showcase my front-end develop
 3. **All Football App (UI Only)** – UI concept with prototype videos
 
 ## 📸 Screenshots  
-*Coming soon...*
+### 🏠 Home Section
+![Home Preview](assets/portfolio-home.png)
+
+### 👤 About Section
+![About Preview](assets/portfolio-about.png)
+
+### 🧩 Projects Section
+![Projects Preview](assets/portfolo-projects.png)
 
 ## 🙋‍♂️ About Me  
 **Ebin Shibu**  
