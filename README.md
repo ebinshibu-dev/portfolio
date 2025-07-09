@@ -28,7 +28,7 @@ A modern and responsive portfolio website built to showcase my front-end develop
 2. **Portfolio Website** – You're looking at it 😎  
    🔗 [Live Demo](https://ebinshibu-dev.github.io/portfolio)
 
-3. **All Football App (UI Only)** – UI concept with prototype videos
+3.  **All Football App (UI Only)** – Redesigned user interface with prototype comparison videos
 
 ## 📸 Screenshots  
 ### 🏠 Home Section
